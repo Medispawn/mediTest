@@ -13,7 +13,15 @@
   </tr>
   
   <tr>
+  <td>1</td><td>1</td><td>1</td>As a user, I want my device to power on so it can perform mechnical movement</td><td>Completed</td>
+  </tr>
+  
+  <tr>
       <td>1</td><td>1</td><td>1</td><td>As a user, I want my device to include wheels so it can traverse obstacles quickly</td><td>Completed</td>
+  </tr>
+  
+  <tr>
+  <td>1</td><td>1</td><td>1</td><td>As a user, I want my device assembled well enough to resist small collision so it doesn't fall apart if it crashes during movement</td><td>Completed</td>
   </tr>
   
   <tr>
@@ -27,5 +35,7 @@
   <tr>
       <td>1</td><td>1</td><td>1</td><td>As a user, I want my device to be able to reset in case of failure so it doesn't become completely inoperable after executing invalid programs</td><td>Completed</td>
   </tr>
+  
+  
 
 </table>
