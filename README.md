@@ -13,7 +13,7 @@
   </tr>
   
   <tr>
-  <td>1</td><td>1</td><td>1</td>As a user, I want my device to power on so it can perform mechnical movement</td><td>Completed</td>
+  <td>1</td><td>1</td><td>1</td><td>As a user, I want my device to power on so it can perform mechnical movement</td><td>Completed</td>
   </tr>
   
   <tr>
